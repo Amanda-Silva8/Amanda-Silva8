@@ -8,7 +8,21 @@ companheiro de jornada.💜💜💜💜
 <br>
 <br>
 <br>
-![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva&show_icons=true&theme=synthwave)
+
+
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![Amanda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Amanda-Silva8/github-readme-stats)
+
+
+
+
+
 
 
 <!--
