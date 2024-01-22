@@ -23,6 +23,16 @@ companheiro de jornada.💜💜💜💜
 
 
 
+<i class="fi fi-brands-instagram"></i>
+
+<i class="fi fi-brands-instagram"></i>
+
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanda-Silva8&bg_color=44136c&color=ffccea&line=8b66f0&point=9e08a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 
 
 <!--
