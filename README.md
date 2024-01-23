@@ -2,7 +2,7 @@
 <br>
 
 
-Nesse momento estudando/praticando Html, Css e JavaScipt da mesma forma em que estou também aprendendo o funcionamento do Git e GitHub, então se busca um GitHub já profissional sugiro clicar em ❌ e "Vá com Deus".<br>
+Nesse momento estudando/praticando Html, Css e JavaScipt da mesma forma em que estou também aprendendo o funcionamento do Git e GitHub, então se busca um GitHub já profissional sugiro clicar em ❌ e [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=+Vá+Com+Deus+:%29)](https://git.io/typing-svg) "Vá com Deus".<br>
 Mas se for alguem que busca aprender ou ensinar seja bem vindo.💜<br>
 Se for alguem que tem curiosidade e modéstia seja bem vindo.💜💜<br>
 Se é alguém que vai fazer o seu melhor seja bem vindo, 💜💜💜<br>
