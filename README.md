@@ -13,15 +13,16 @@ companheiro de jornada.💜💜💜💜
 
 
 
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
 
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
+:---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
+:---:
 
 
 [![Amanda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Amanda-Silva8/github-readme-stats)
-
+---:
 
 
 
@@ -33,8 +34,8 @@ companheiro de jornada.💜💜💜💜
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanda-Silva8&bg_color=44136c&color=ffccea&line=8b66f0&point=9e08a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+:---:
 
----|---|
 
 
 
