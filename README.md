@@ -1,5 +1,8 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=header"/>
 # Oieee👋, meu nome é Amanda ✨
+<br>
+
+
 Nesse momento estudando/praticando Html, Css e JavaScipt da mesma forma em que estou também aprendendo o funcionamento do Git e GitHub, então se busca um GitHub já profissional sugiro clicar em ❌ e "Vá com Deus".<br>
 Mas se for alguem que busca aprender ou ensinar seja bem vindo.💜<br>
 Se for alguem que tem curiosidade e modéstia seja bem vindo.💜💜<br>
@@ -8,6 +11,8 @@ companheiro de jornada.💜💜💜💜
 <br>
 <br>
 <br>
+
+
 ---
 
 
