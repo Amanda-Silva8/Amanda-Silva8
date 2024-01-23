@@ -10,8 +10,15 @@ Se é alguém que vai fazer o seu melhor...
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=+Seja+Bem+Vindo,+Companheiro+de+Jornada:%29)](https://git.io/typing-svg)
 
 <br>
-<br>
-<br>
+
+
+<h2>Utilizo:</h2>
+
+![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117)&nbsp; 
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp; 
+
+
 
 
 ---
@@ -42,7 +49,7 @@ Se é alguém que vai fazer o seu melhor...
 
 
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 
 
