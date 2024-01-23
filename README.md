@@ -28,7 +28,7 @@ Se é alguém que vai fazer o seu melhor...
 <h2>Status do meu GitHub:</h2>
 
 
-<div align="right" text-align="center">
+<div align="center" >
   
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
 
