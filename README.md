@@ -45,16 +45,15 @@ Um mini dicionario sobre o que é o que
 
 
 
-
+<h2>Minhas contribuições do ultimo mês:</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanda-Silva8&bg_color=44136c&color=ffccea&line=8b66f0&point=9e08a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 :---:
 
 
 
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
 
----:
+
 
 
 
