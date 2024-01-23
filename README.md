@@ -23,6 +23,20 @@ Se é alguém que vai fazer o seu melhor...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-silva8&layout=pie&theme=synthwave)](https://github.com/Amanda-Silva8/github-readme-stats)
 </div>
 
+---
+
+<h2>Status do meu GitHub:</h2>
+
+Um mini dicionario sobre o que é o que
+>dgdsgxdxcdbcxb
+
+<div align="right" text-align="center">
+  
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
+
+</div>
+
+
 
 
 
