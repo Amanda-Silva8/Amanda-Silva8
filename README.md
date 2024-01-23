@@ -13,11 +13,12 @@ Se é alguém que vai fazer o seu melhor...
 
 
 <h2>Utilizo:</h2>
+
 <div align="center">
+  
 ![Html](https://img.shields.io/badge/-Html-0D1117?style=for-the-badge&logo=Html5&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-silva8&layout=pie&theme=synthwave)](https://github.com/Amanda-Silva8/github-readme-stats)
 </div>
@@ -31,16 +32,14 @@ Se é alguém que vai fazer o seu melhor...
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-silva8&layout=pie&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-silva8&layout=pie&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amanda-Silva8&bg_color=44136c&color=ffccea&line=8b66f0&point=9e08a1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 :---:
 
 
 
-![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva8&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
 
-
-[![Amanda's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/Amanda-Silva8/github-readme-stats)
 ---:
 
 
