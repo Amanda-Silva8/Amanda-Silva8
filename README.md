@@ -9,6 +9,7 @@ companheiro de jornada.💜💜💜💜
 <br>
 <br>
 <br>
+---
 
 
 ![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanda-Silva&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=synthwave)
