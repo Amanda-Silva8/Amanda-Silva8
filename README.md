@@ -27,8 +27,6 @@ Se é alguém que vai fazer o seu melhor...
 
 <h2>Status do meu GitHub:</h2>
 
-Um mini dicionario sobre o que é o que
->dgdsgxdxcdbcxb
 
 <div align="right" text-align="center">
   
@@ -84,6 +82,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Um mini dicionario sobre o que é o que
+>Estatísticas do GitHub de Amanda Silva <br>
+                     C<br>
+Total de estrelas ganhas: 0<br>
+Compromissos totais (2024):13<br>
+PRs totais:0<br>
+Total de PRs mesclados: 0<br>
+Porcentagem de PRs mesclados:NaN%<br>
+Total de PRs revisados: 0<br>
+Total de problemas:0<br>
+Total de discussões iniciadas:0<br>
+Total de discussões respondidas:0<br>
+Contribuiu para (ano passado):0<br>
+
 
 
 --- linha
