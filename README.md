@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=100&section=header"/><h1>Oieee👋, meu nome é Amanda ✨</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/><h1>Oieee👋, meu nome é Amanda ✨</h1>
 <br>
 
 
@@ -7,6 +7,8 @@ Mas se for alguem que busca aprender ou ensinar seja bem vindo.💜<br>
 Se for alguem que tem curiosidade e modéstia seja bem vindo.💜💜<br>
 Se é alguém que vai fazer o seu melhor seja bem vindo, 💜💜💜<br>
 companheiro de jornada.💜💜💜💜
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=+Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
+
 <br>
 <br>
 <br>
