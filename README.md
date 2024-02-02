@@ -63,6 +63,7 @@ Se é alguém que vai fazer o seu melhor...
 ---
 
 <h2> Entre em contato: </h2>
+Alguma sugestão, duvida, Conselhos, segredos ou fofocas. Me conte!🗣️
 
 
  <br>
@@ -78,9 +79,6 @@ Se é alguém que vai fazer o seu melhor...
 <br>
 
 
-![Instagram](https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram&labelColor=0D1117)&nbsp;
-![Instagram](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117)&nbsp;
-![Instagram](https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&labelColor=0D1117)&nbsp;
 
 
 
