@@ -1,13 +1,13 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/><h1>Oieee👋, meu nome é Amanda ✨</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/><h1>Oieee👋, meu nome é Amanda ✨</h1>
 <br>
 
 
-Nesse momento estudando/praticando Html, Css e JavaScipt da mesma forma em que estou também aprendendo o funcionamento do Git e GitHub, então se busca um GitHub já profissional sugiro clicar em ❌ e... [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=+"Vá+Com+Deus".+:%29)](https://git.io/typing-svg) 
+Nesse momento estudando/praticando Html, Css e JavaScipt da mesma forma em que estou também aprendendo o funcionamento do Git e GitHub, então se busca um GitHub já profissional sugiro clicar em ❌ e... [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=+"Vá+Com+Deus".+:%29)](https://git.io/typing-svg) 
 <br>
 Mas se for alguem que busca aprender ou ensinar seja bem vindo.💜<br>
 Se for alguem que tem curiosidade e modéstia seja bem vindo.💜💜<br>
 Se é alguém que vai fazer o seu melhor...
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=+Seja+Bem+Vindo,+Companheiro+de+Jornada:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=+Seja+Bem+Vindo,+Companheiro+de+Jornada:%29)](https://git.io/typing-svg)
 
 <br>
 
@@ -85,7 +85,7 @@ Alguma sugestão, duvida, Conselhos, segredos ou fofocas. Me conte!🗣️
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
 
 
 
