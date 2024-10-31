@@ -53,7 +53,6 @@ Alguma sugestão, dúvida, conselho, segredo ou fofoca? Conte-me!🗣️
  <br>
 
 <div align="center"> 
-<a href="https://www.instagram.com/amanda_ynare/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram&labelColor=0D1117"></a>
 <a href = "mailto:amanda2014ynare@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail&labelColor=0D1117" target="_blank"></a>
 <a href="https://www.linkedin.com/in/amanda-silva8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&labelColor=0D1117" ></a> 
  </div>
